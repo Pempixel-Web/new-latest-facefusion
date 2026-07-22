@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: YOUR_DOCKER_USERNAME/facefusion:latest
+          tags: pempixel/latest-facefusion:latest
