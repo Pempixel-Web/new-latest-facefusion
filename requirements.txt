@@ -1,0 +1,12 @@
+runpod==1.7.13
+requests
+Pillow
+numpy==2.2.1
+
+gradio-rangeslider==0.0.8
+gradio==5.50.0
+onnx==1.21.0
+onnxruntime==1.26.0
+opencv-python-headless==4.13.0.92
+tqdm==4.67.3
+scipy==1.17.1

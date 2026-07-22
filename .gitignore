@@ -1,0 +1,23 @@
+__pycache__/
+.assets/
+.claude/
+.caches/
+.idea/
+.jobs/
+.vscode/
+
+venv/
+*.pyc
+*.pyo
+*.pyd
+
+
+# __pycache__
+# .assets
+# .claude
+# .caches
+# .idea
+# .jobs
+# .vscode
+
+
